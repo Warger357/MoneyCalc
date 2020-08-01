@@ -1,0 +1,9 @@
+C:\Users\miste\source\repos\dzień\dzień\bin\Debug\dzień.exe.config
+C:\Users\miste\source\repos\dzień\dzień\bin\Debug\dzień.exe
+C:\Users\miste\source\repos\dzień\dzień\bin\Debug\dzień.pdb
+C:\Users\miste\source\repos\dzień\dzień\obj\Debug\dzień.csprojAssemblyReference.cache
+C:\Users\miste\source\repos\dzień\dzień\obj\Debug\dzień.Properties.Resources.resources
+C:\Users\miste\source\repos\dzień\dzień\obj\Debug\dzień.csproj.GenerateResource.cache
+C:\Users\miste\source\repos\dzień\dzień\obj\Debug\dzień.exe
+C:\Users\miste\source\repos\dzień\dzień\obj\Debug\dzień.pdb
+C:\Users\miste\source\repos\dzień\dzień\obj\Debug\dzień.Kalkulator.resources

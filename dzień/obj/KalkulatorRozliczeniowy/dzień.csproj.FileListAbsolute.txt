@@ -1,0 +1,6 @@
+C:\Users\miste\source\repos\dzień\dzień\bin\KalkulatorRozliczeniowy\Kalkulator.exe.config
+C:\Users\miste\source\repos\dzień\dzień\bin\KalkulatorRozliczeniowy\Kalkulator.exe
+C:\Users\miste\source\repos\dzień\dzień\obj\KalkulatorRozliczeniowy\dzień.Kalkulator.resources
+C:\Users\miste\source\repos\dzień\dzień\obj\KalkulatorRozliczeniowy\Calc.Properties.Resources.resources
+C:\Users\miste\source\repos\dzień\dzień\obj\KalkulatorRozliczeniowy\dzień.csproj.GenerateResource.cache
+C:\Users\miste\source\repos\dzień\dzień\obj\KalkulatorRozliczeniowy\Kalkulator.exe
